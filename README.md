@@ -21,7 +21,6 @@ I am a Computer Science undergraduate student at AKIT, deeply passionate about s
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
-
 ## 📈 GitHub Statistics
 
 <p align="center">
