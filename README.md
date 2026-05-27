@@ -24,13 +24,13 @@ I am a Computer Science undergraduate student at AKIT, deeply passionate about s
 
 ## 📈 GitHub Statistics
 
-| 📊 My GitHub Stats | 🎛️ Most Used Languages |
-| --- | --- |
-| <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Abhinavsinghpawar27&show_icons=true&theme=tokyonight&count_private=true" alt="Abhinav's GitHub Stats" height="195" /> | <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Abhinavsinghpawar27&layout=compact&theme=tokyonight" alt="Top Languages" height="195" /> |
+<p align="center">
+  <img src="https://metrics.lecoq.io/Abhinavsinghpawar27?template=classic&config.timezone=Asia%2FKolkata&base.header=0&base.activity=0&base.community=0&repositories=0&metadata=0&lines=1&licenses=1" alt="Abhinav's GitHub Stats" width="100%" />
+</p>
 
 <p align="center">
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinavsinghpawar27&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinavsinghpawar27&theme=tokyonight" alt="GitHub Streak" width="49%" />
+  <img src="https://metrics.lecoq.io/Abhinavsinghpawar27?template=classic&base=0&languages=1&languages.ignored=html,css&languages.sort=commits&languages.limit=8&repositories=0&metadata=0" alt="Top Languages" width="49%" />
 </p>
 
 ---
