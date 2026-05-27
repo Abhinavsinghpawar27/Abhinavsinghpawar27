@@ -24,12 +24,12 @@ I am a Computer Science undergraduate student at AKIT, deeply passionate about s
 
 ## 📈 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhinavsinghpawar27&show_icons=true&theme=tokyonight&count_private=true" alt="Abhinav's GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinavsinghpawar27&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
-</p>
+| 📊 My GitHub Stats | 🎛️ Most Used Languages |
+| --- | --- |
+| <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Abhinavsinghpawar27&show_icons=true&theme=tokyonight&count_private=true" alt="Abhinav's GitHub Stats" height="195" /> | <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Abhinavsinghpawar27&layout=compact&theme=tokyonight" alt="Top Languages" height="195" /> |
 
 <p align="center">
+  <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinavsinghpawar27&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
