@@ -35,8 +35,8 @@ p<p align="left">
 
 I am always looking to collaborate on frontend, backend, or full-stack web development projects. Feel free to reach out!
 
-* 📧 **Email:** [your.email@example.com](mailto:abhinavsinghpawar27@gmail.com)
-* 💼 **LinkedIn:** [linkedin.com/in/your-username](https://linkedin.com/in/abhinav-singh-cse)
+* 📧 **Email:** [Abhinavsingh](mailto:abhinavsinghpawar27@gmail.com)
+* 💼 **LinkedIn:** [linkedin.com/in/abhinav-singh-cse](https://linkedin.com/in/abhinav-singh-cse)
 
 <!---
 Abhinavsinghpawar27/Abhinavsinghpawar27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
